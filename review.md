@@ -32,7 +32,7 @@
 ## AI warning
 Your proposal is already very polished. To be honest, the writing style raises a small flag for me. To dispel any doubt:
 
-- The **parser** (GTFS handling, edge construction, transfer modeling) must be your own work. AI can help with pandas idioms, not with the modeling.
+- The **parser** (GTFS handling, edge construction, transfer modeling) must be your own work. AI can help with pandas idioms, not with the modeling. 
 - **Dijkstra and A*** must be hand-written. They are the algorithmic core of the project and of the entire S2 chapter on shortest paths. You must each be able to write Dijkstra at the board, from scratch, if asked.
 - The benchmark scripts and plotting can be AI-assisted (cite it).
 - The report (analyses, comparisons, discussions of the experimental questions) must be your own.
